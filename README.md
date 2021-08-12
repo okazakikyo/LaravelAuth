@@ -7,7 +7,7 @@ Laravel
 ### Clone
 
 ```sh
-git clone https://github.com/lipingZLP/my-hobbies.git
+git clone https://github.com/okazakikyo/LaravelAuth
 cd LaravelAuth
 cp .env.example .env
 composer install
